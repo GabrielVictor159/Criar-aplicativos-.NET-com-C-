@@ -1,0 +1,15 @@
+C:\Nova pasta (2)\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.exe
+C:\Nova pasta (2)\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.deps.json
+C:\Nova pasta (2)\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.runtimeconfig.json
+C:\Nova pasta (2)\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.dll
+C:\Nova pasta (2)\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.pdb
+C:\Nova pasta (2)\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.csproj.AssemblyReference.cache
+C:\Nova pasta (2)\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nova pasta (2)\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Nova pasta (2)\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.AssemblyInfo.cs
+C:\Nova pasta (2)\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Nova pasta (2)\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.dll
+C:\Nova pasta (2)\DotNetDebugging\obj\Debug\net7.0\refint\DotNetDebugging.dll
+C:\Nova pasta (2)\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.pdb
+C:\Nova pasta (2)\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.genruntimeconfig.cache
+C:\Nova pasta (2)\DotNetDebugging\obj\Debug\net7.0\ref\DotNetDebugging.dll
